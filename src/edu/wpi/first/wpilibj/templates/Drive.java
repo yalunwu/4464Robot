@@ -4,10 +4,7 @@
  */
 package edu.wpi.first.wpilibj.templates;
 
-/**
- *
- * @author xiaopang
- */
+
 public class Drive {
     
     public Drive(){

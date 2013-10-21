@@ -2,16 +2,15 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
+
 package edu.wpi.first.wpilibj.templates;
 
-/**
- *
- * @author xiaopang
- */
-public class SecondaryProcessor implements Runnable {
-    
-    public void run(){
-        
+
+public class SecondaryProcessor{
+
+    public SecondaryProcessor(){
+       
     }
+     
     
 }
